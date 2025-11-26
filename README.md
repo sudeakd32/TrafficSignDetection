@@ -50,5 +50,5 @@ The processed region is sent to Tesseract OCR, and the extracted digits are conv
 A complete runtime environment is provided via Docker.
 No local dependency installation is required.
 
-### Screenshot 📱
+# Screenshot 📱
 ![Alt text](https://github.com/sudeakd32/TrafficSignDetection/blob/main/screenshot.png)
