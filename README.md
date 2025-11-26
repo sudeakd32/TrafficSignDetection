@@ -50,3 +50,5 @@ The processed region is sent to Tesseract OCR, and the extracted digits are conv
 A complete runtime environment is provided via Docker.
 No local dependency installation is required.
 
+### Screenshot 📱
+![Alt text](https://github.com/sudeakd32/HotelManagementProject/blob/main/screenshots/Go%CC%88ru%CC%88ntu%CC%88%2030.07.2025%2016.55.jpg)
